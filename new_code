@@ -1,0 +1,8 @@
+//this is for using branch..
+
+int foo(int a){
+	printf("hello this is the branch of the master");
+	return 0;
+
+}
+
