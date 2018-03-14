@@ -1,0 +1,8 @@
+// this is the first code I've write down in this...
+
+#include <stdio.h>
+
+void main(){
+	printf("say hello to everyone!")
+}
+
